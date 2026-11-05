@@ -1,0 +1,9 @@
+# Build-Zwischenstände
+/build/
+__pycache__/
+*.pyc
+*.spec
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
